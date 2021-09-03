@@ -1,0 +1,4 @@
+2 na 2 - 17 iteraci, 20 to v rùznıch pøípadech jistí
+log 7 iteraci
+
+nepresnost je u vetsich cisel vetsi
